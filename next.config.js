@@ -2,8 +2,6 @@
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: '/modernfolio',
-  assetPrefix: '/modernfolio',
   images: {
     unoptimized: true,
   },
